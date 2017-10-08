@@ -1,5 +1,4 @@
 body {
-    padding: 10px;
     background-color: #333;
     color: #ccc;
 }
@@ -15,4 +14,20 @@ a {
 }
 a:hover {
     color: #ff8340;
+}
+
+header {
+    background-color: #111;
+}
+
+footer {
+    background-color: #222;
+}
+
+.well {
+    background-color: #454545;
+}
+
+.panel-body {
+    background-color: #333;
 }
